@@ -1,0 +1,35 @@
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.old
+*.log
+
+# Saídas e coletas
+*.csv
+*.xlsx
+*.json
+*.out
+*.dump
+*.backup
+
+# Credenciais e configs locais
+.env
+.env.*
+*.key
+*.pem
+*.crt
+*.pfx
+*.kdbx
+.pgpass
+pgpass
+
+# Arquivos locais
+*.local.*
+*_local.*
+.local/
+
+# Sistema/Editor
+.DS_Store
+Thumbs.db
+.vscode/
